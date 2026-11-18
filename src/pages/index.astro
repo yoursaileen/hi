@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layouts.astro';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+function formatDate(date: Date) {
+  return date.toLocaleDateString('en-US', {
+    month: 'short',
+    day: 'numeric',
+    year: 'numeric',
+    timeZone: 'UTC',
+  });
+}
+---
+<Layout title="My Blog">
+  <div class="divide-y divide-slate-100">
+    {posts.map((post) => {
+      const isoDate = post.data.pubDate.toISOString().split('T')[0];
+      const isDateTitle = post.data.title === isoDate;
+      const displayTitle = isDateTitle ? formatDate(post.data.pubDate) : post.data.title;
+
+      return (
+        <article class="py-8 first:pt-0">
+          <a href={`${base}/page/${post.id}/`} class="group block">
+            <h2 class="text-2xl font-bold text-slate-900 group-hover:text-orange-600 transition-colors">
+              {displayTitle}
+            </h2>
+            {post.data.description && (
+              <p class="mt-2 text-slate-600 leading-relaxed">{post.data.description}</p>
+            )}
+            {!isDateTitle && (
+              <time class="mt-3 block text-xs uppercase tracking-wider text-slate-400">
+                {formatDate(post.data.pubDate)}
+              </time>
+            )}
+          </a>
+        </article>
+      );
+    })}
+  </div>
+</Layout>

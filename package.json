@@ -1,0 +1,29 @@
+{
+  "name": "hi",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.23.4"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "sync": "node scripts/sync-notion.js",
+    "sync:drafts": "node scripts/sync-notion.js --drafts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@notionhq/client": "^5.31.1",
+    "@tailwindcss/typography": "^0.5.20",
+    "@tailwindcss/vite": "^4.3.5",
+    "astro": "^7.4.11",
+    "dotenv": "^18.0.10",
+    "notion-to-md": "^3.1.9",
+    "tailwindcss": "^4.3.5"
+  },
+  "overrides": {
+    "postcss-selector-parser": "^6.1.5"
+  }
+}
