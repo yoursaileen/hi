@@ -5,7 +5,7 @@ pubDate: "2026-11-17"
 draft: false
 ---
 
-3:11pm
+<u>**3:11pm**</u>
 
 
 I’ve decided to start writing, nothing serious, but I’m hoping to document my day-to-day. It’s near the end of the year, and I realized that I can’t remember how I’ve spent the time. I’m scared I’ve wasted a year. I’m scared that I’ve wasted many years.
