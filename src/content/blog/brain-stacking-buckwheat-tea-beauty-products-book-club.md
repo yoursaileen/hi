@@ -26,6 +26,9 @@ From what I gather, brain stacking is an alternative to doomscrolling. Instead o
 Even though, I heard of brain stacking for the first time this weekend, I’m already seeing criticism. The central critique is around how people are encouraged to buy new supplies to start brain stacking instead of using what they already have. I’ve noticed it too, when I see people post themselves brain stacking on reels, all their books seem to be brand new. Brain stacking videos seem to be product placement for new cozy coloring books and marker sets, new puzzle books, like Murdle _(a puzzle book series but each puzzle is part of a larger murder mystery. this one does seem interesting, and I might get it in the future. the book series is based off daily mystery puzzles that are available for free online:_ [https://murdle.com](https://murdle.com/)_)_ or aesthetic sudoku _(it’s just normal sudoku, but there are delicate line drawings of deer or flowers atop pastel backgrounds, instead of louder styles you would see at newstands and airport gift shops)_, and products like Brick, a $59 physical NFC device that ‘bricks’ your phone by blocking distracting apps. (_honestly, I don’t understand the need for brick, I could just turn off my phone for free?)_ I’ve been tempted, and I’ve caught myself adding sudoku books to my cart until I realized sudoku is free online and on the app store. So, I think for a while, I’ll be on airplane mode (instead of paying to go ad-free) playing sudoku on my iPad. Maybe if I want to go truly analog, I’ll try printing out some puzzles from the library.
 
 
+---
+
+
 <u>**12:32pm**</u>
 
 
@@ -33,6 +36,9 @@ Even though, I heard of brain stacking for the first time this weekend, I’m al
   <img src="/hi/images/notion/brain-stacking-buckwheat-tea-beauty-products-book-club-1.heic" alt="lunch: costco chicken bites, a hardboiled egg, a persimmon, strawberry activia" />
   <figcaption>lunch: costco chicken bites, a hardboiled egg, a persimmon, strawberry activia</figcaption>
 </figure>
+
+
+---
 
 
 <u>**1:40pm**</u>
@@ -50,6 +56,9 @@ I’ve never tried this tea before, or if I had I don’t remember. It’s a caf
 Now that’s it’s getting cold, I’ve been brewing a lot of tea, and drinking it hot. It’s a new habit for me, I’m usually the type of person that drinks iced drinks all through the winter, but recently I’ve been finding it comforting to drink something warm. I also like that there are many non-caffeinated options. It’s been fun trying new teas, and I’ve been exploring over the past month. I’ve noticed that within western tea there aren’t any 고소한 options. I haven’t tried many, but it seems like the options at the grocery store are always fruity, spicy, or floral. I’ll keep trying more, and see what I can find.
 
 
+---
+
+
 3:09pm
 
 
@@ -57,6 +66,9 @@ Now that’s it’s getting cold, I’ve been brewing a lot of tea, and drinking
   <img src="/hi/images/notion/brain-stacking-buckwheat-tea-beauty-products-book-club-3.heic" alt="sudoku and a bowl of frozen mangos, a little work break." />
   <figcaption>sudoku and a bowl of frozen mangos, a little work break.</figcaption>
 </figure>
+
+
+---
 
 
 <u>**11:09pm**</u>
