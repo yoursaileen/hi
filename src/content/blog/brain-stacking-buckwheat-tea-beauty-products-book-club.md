@@ -33,7 +33,7 @@ Even though, I heard of brain stacking for the first time this weekend, I’m al
 
 
 <figure>
-  <img src="/hi/images/notion/brain-stacking-buckwheat-tea-beauty-products-book-club-1.heic" alt="lunch: costco chicken bites, a hardboiled egg, a persimmon, strawberry activia" />
+  <img src="/hi/images/notion/brain-stacking-buckwheat-tea-beauty-products-book-club-1.png" alt="lunch: costco chicken bites, a hardboiled egg, a persimmon, strawberry activia" />
   <figcaption>lunch: costco chicken bites, a hardboiled egg, a persimmon, strawberry activia</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Even though, I heard of brain stacking for the first time this weekend, I’m al
 
 
 <figure>
-  <img src="/hi/images/notion/brain-stacking-buckwheat-tea-beauty-products-book-club-2.heic" alt="메밀차 - buckwheat tea" />
+  <img src="/hi/images/notion/brain-stacking-buckwheat-tea-beauty-products-book-club-2.png" alt="메밀차 - buckwheat tea" />
   <figcaption>메밀차 - buckwheat tea</figcaption>
 </figure>
 
@@ -71,6 +71,12 @@ Now that’s it’s getting cold, I’ve been brewing a lot of tea, and drinking
 ---
 
 
+ate tuna and oatmeal and avocado with kewpie mayo and sriracha.
+
+
+---
+
+
 <u>**11:09pm**</u>
 
 
@@ -86,6 +92,12 @@ _Now I’m walking, I accidentally got off a stop too early. It’s only a 10 mi
 It looked like I was going to get there early, so I made a quick stop at Ross to shop around. I’ve never been to this Ross before, so I was excited to check it out for the first time. I haven’t been to any Ross in a while since I haven’t lived by one until now. It felt pretty similar to shopping at Marshalls, and it was fun to go around hunting for things. I was successful! I found a pink sugar Summer Fridays lip butter balm and a gummy bear flavored Laneige lip sleeping mask, and decided to buy both. I was tempted by a couple more items, but left them in the checkout aisle, 2 medicube collagen masks for another day.
 
 
+<figure>
+  <img src="/hi/images/notion/brain-stacking-buckwheat-tea-beauty-products-book-club-4.png" alt="my ross finds. a gummy bear lip sleeping mask by laneige. a pink sugar lip butter balm by summer fridays." />
+  <figcaption>my ross finds. a gummy bear lip sleeping mask by laneige. a pink sugar lip butter balm by summer fridays.</figcaption>
+</figure>
+
+
 For about a week now, I’ve been feeling the urge to go shopping. On Sunday, I went eyeshopping at the mall and didn’t buy anything, so I had an itch to scratch. 
 
 
@@ -95,11 +107,11 @@ _I’m in bed now. Before I get home, I stopped and checked the mail, all junk m
 I guess I’m being a little hypocritical. Earlier in the morning, I critique book stacking for promoting consumerism, and now I’m writing about buying beauty products at Ross…. I admit I’ve been affected by the Black Friday ads, holiday gift guides, and advent calendars. In my head, it was a good trade. Instead of buying an advent calendar full of things I wouldn’t necessarily choose myself, just because it was a good deal, I let myself go bargain hunting at Ross. I’m sure I’ll use everything, and don’t feel any buyer’s remorse yet. So for now, I’m pretty happy with my purchases. I’ll report back with my reviews.
 
 
-Anyways, back to the book club. Since I haven’t read the book in a while, and I felt tired after work, I almost didn’t go. For a couple weeks, I’ve been feeling unwell, a general malaise. I’ve been slowly getting better, but I’ve been wary of overexerting myself, so I haven’t been out of the house much, and I haven’t seen anyone socially in a while. That must be why I was feeling a little anxious. I’m very glad I went. I really liked catching up with everyone and just chatting, with spiced cider and snacks too.
+Anyways, back to the book club. Since I haven’t read the book in a while, and I felt tired after work, I almost didn’t go. For a couple weeks, I’ve been feeling unwell, a general malaise. I’ve been slowly getting better, but I’ve been wary of overexerting myself, so I haven’t been out of the house much, and I haven’t seen anyone socially in a while. That must be why I was feeling a little anxious. I’m very glad I went. I really liked catching up with everyone and just chatting, with spiced cider and snacks too. I ate a bunch of crackers, and bread, 3 mandarins, cucumbers, prosciutto, and some butter cookies too.
 
 
 <figure>
-  <img src="/hi/images/notion/brain-stacking-buckwheat-tea-beauty-products-book-club-4.jpeg" alt="the book, on the calculation of volume, and the food spread, bread, crackers, mandarins, and more. thanks to my gracious hosts, nikki and emily" />
+  <img src="/hi/images/notion/brain-stacking-buckwheat-tea-beauty-products-book-club-5.jpeg" alt="the book, on the calculation of volume, and the food spread, bread, crackers, mandarins, and more. thanks to my gracious hosts, nikki and emily" />
   <figcaption>the book, on the calculation of volume, and the food spread, bread, crackers, mandarins, and more. thanks to my gracious hosts, nikki and emily</figcaption>
 </figure>
 
