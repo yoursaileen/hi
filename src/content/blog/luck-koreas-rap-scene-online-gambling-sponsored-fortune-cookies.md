@@ -1,6 +1,6 @@
 ---
 title: "luck, korea’s rap scene, online gambling sponsored fortune cookies"
-description: "thursday"
+description: ""
 pubDate: "2026-11-19"
 draft: false
 ---

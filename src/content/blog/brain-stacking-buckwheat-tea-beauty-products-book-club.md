@@ -1,6 +1,6 @@
 ---
 title: "brain stacking, buckwheat tea, beauty products, book club."
-description: "wednesday"
+description: ""
 pubDate: "2026-11-18"
 draft: false
 ---
